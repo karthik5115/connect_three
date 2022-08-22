@@ -1,0 +1,6 @@
+There exits three files html,javascript,css.they are very basic files to create a web page.But in additional with them I use the bootstrap and jquery to write the code more
+more convinient for me.
+Basically this is a game just like the tac-tic-toe,SOS etc....
+It is a 2 multiplayer game.
+There exits 25 chips if any of the player connect the three chips in order he won the game!!
+NOTE: chips are filled from bottum to top.
